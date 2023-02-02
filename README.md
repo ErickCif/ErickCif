@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Erick
+
+💻 CO' 2025 Columbia College--Computer Science Major (Applications Track)
+
+🔭 I from San Diego CA, I spend my free time playing volleyball, video games, and/or drums! I also study astrophysics and philosophy but only for pleasure.
 
 <!--
 **ErickCif/ErickCif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
