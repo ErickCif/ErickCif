@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Erick
 
-💻 CO' 2025 Columbia College--Computer Science Major (Applications Track)
+💻 CO' 2025 Columbia College--Computer Science Major
 
 🔭 I from San Diego CA, I spend my free time playing volleyball, video games, and/or drums! I also study astrophysics and philosophy but only for pleasure.
 
