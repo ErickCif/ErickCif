@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Erick
+### Computer Scientist & Developer.
 
-💻 CO' 2025 Columbia College--Computer Science Major
-
-🔭 I from San Diego CA, I spend my free time playing volleyball, video games, and/or drums! I also study astrophysics and philosophy but only for pleasure.
+First-generation computer scientist
+most interested in complexity theory
+algorithm design and blockchains.
 
 <!--
 **ErickCif/ErickCif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
