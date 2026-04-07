@@ -4,6 +4,8 @@ First-generation computer scientist
 most interested in complexity theory
 algorithm design and blockchains.
 
+https://www.erickcif.me/
+
 <!--
 **ErickCif/ErickCif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
